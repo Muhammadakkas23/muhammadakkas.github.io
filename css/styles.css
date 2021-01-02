@@ -10212,10 +10212,10 @@ body {
     color: #fff;
   }
   #mainNav.navbar-shrink {
-    background-color: #1E1D1D;
+    background-color: #fff;
   }
   #mainNav.navbar-shrink .navbar-brand {
-    color: #8C8C8C;
+    color: #000;
   }
 
   @media (min-width: 992px){
