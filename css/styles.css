@@ -10161,7 +10161,7 @@ body {
 
 #mainNav {
   min-height: 3.5rem;
-  background-color: #1E1D1D;
+  background-color: #ffffff;
 }
 #mainNav .navbar-toggler {
   font-size: 90%;
@@ -10272,7 +10272,7 @@ body {
   display: inline;
 }
 .masthead h2 {
-  max-width: 17rem;
+  max-width: 50rem;
   font-size: 0.9rem;
   line-height: 1.4rem;
   font-weight: 100;
@@ -10323,7 +10323,7 @@ body {
 .about-section {
   padding-top:9rem;
   padding-bottom: 7rem;
-  background: #242323;
+  background: #white;
 }
 .about-section p {
   margin-bottom: 5rem;
