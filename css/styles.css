@@ -12,6 +12,7 @@
  */
 :root {
   --blue: #007bff;
+  --white:#ffffff;
   --indigo: #6610f2;
   --purple: #6f42c1;
   --pink: #e83e8c;
@@ -10173,7 +10174,7 @@ body {
   outline: none;
 }
 #mainNav .navbar-brand {
-  color: #8C8C8C;
+  color: #000000;
   font-weight: 700;
   padding: 0.9rem 0;
   margin-left: 1rem;
