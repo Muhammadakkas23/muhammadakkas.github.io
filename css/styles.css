@@ -10212,7 +10212,7 @@ body {
     color: #fff;
   }
   #mainNav.navbar-shrink {
-    background-color: #fff;
+    background-color: #6c757d;
   }
   #mainNav.navbar-shrink .navbar-brand {
     color: #000;
@@ -10371,5 +10371,5 @@ body {
 
 .footer {
   padding: 2rem 0;
-  background-color: #1E1D1D !important;
+  background-color: #6c757d !important;
 }
