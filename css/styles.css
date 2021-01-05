@@ -4099,7 +4099,7 @@ input[type=button].btn-block {
 }
 
 .icon-set {
-    height: 500px;
+    height: 445px;
     width: 300px;
     display: inline;
     margin: 5rem;
@@ -10247,6 +10247,7 @@ body {
   box-shadow: 0 0.1875rem 0.1875rem 0 rgba(0, 0, 0, 0.1) !important;
   padding: 0.8rem 2rem;
   margin-right: 1.5rem;
+  margin-left: 1.5rem;
   font-family: "Museo sans", -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, "Helvetica Neue", Arial, sans-serif, "Apple Color Emoji", "Segoe UI Emoji", "Segoe UI Symbol", "Noto Color Emoji";
   font-size: 1rem;
   letter-spacing: 0.05rem;
